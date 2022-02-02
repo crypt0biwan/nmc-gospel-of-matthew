@@ -7,10 +7,10 @@ So I've been in the Punycodes Discord for a while, discussing Namecoin stuff, pu
 "Check out what's happening in the Punycode Discord". I hadn't seen it yet but user [Swooty](https://twitter.com/swooty_dev) (admin of the [NFT relics Discord](discord.gg/nft-relics)) shared he found this utf8 art cat encoded as a hex name:
 
 ```
-       /\_/\ 
-  ____/ o o \ 
- /~____ =ø= /
- (______)__m_
+         /\_/\
+    ____/ o o \
+  /~____  =ø= /
+ (______)__m_m)
 ```
 This is the [involved tx](https://nmc.tokenview.com/en/tx/cb010601d687664fc4bfd23a1a18b84a3cfec8d2cd82e2813a32ecd440c55b64) for those wondering.
 
