@@ -55,7 +55,7 @@ Then my journey began to register all of the 301 parts, it took me all day (I gu
 You can see all the name parts in the `gospel-parts.txt` file. 
 The corresponding hex encoded names (and name_values etc) are in the `gospel-sorted.json`
 
-So when I finally got them I _needed_ to write [This Medium article]() to share it with the world. What an honor to excavate this beautiful historical pieces.
+So when I finally got them I _needed_ to write [This Medium article](https://crypt0biwan.medium.com/namecoin-archeology-gospel-according-to-matthew-5e3ad605483) to share it with the world. What an honor to excavate this beautiful historical pieces.
 
 I'd like to thank everyone in the Punycodes Discord that I was chatting with, it eventually led to this amazing discovery!
 
