@@ -4,7 +4,7 @@
   "description": "Namecoin archeology \"Gospel according to Matthew\"",
   "main": "gospel.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node decode.js"
   },
   "repository": {
     "type": "git",
