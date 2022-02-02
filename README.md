@@ -4,7 +4,7 @@ So I've been in the Punycodes Discord for a while, discussing Namecoin stuff, pu
 
 ![img/adam.png](img/adam.png)
 
-"Check out what's happening in the Punycode Discord". I hadn't seen it yet but user [Swooty](https://twitter.com/swooty_dev) (admin of the [NFT relics Discord](discord.gg/nft-relics)) shared he found this utf8 art cat encoded as a hex name:
+"Check out what's happening in the Punycode Discord". I hadn't seen it yet but user [Swooty](https://twitter.com/swooty_dev) (admin of the [NFT relics Discord](discord.gg/nft-relics)) shared he found this ASCII Cat artwork encoded as a hex name:
 
 ```
          /\_/\
